@@ -1,4 +1,4 @@
-# My Codecademy ML Projects
+# My Codecademy Projects
 
 
 
